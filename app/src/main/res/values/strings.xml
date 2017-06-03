@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FirstKotlin</string>
+	<string name="action_settings">Settings</string>
+</resources>
